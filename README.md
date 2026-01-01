@@ -41,31 +41,19 @@ I’m currently focused on strengthening my core programming skills and developi
 
 ## 🚀 Featured Projects
 
-### ⚖️ Crime Law Chatbot
+### Crime Law Chatbot
 AI-powered chatbot that identifies relevant IPC sections and provides simplified explanations of Indian criminal law.
 
-### 🧩 Bridge and Torch Puzzle
+### Bridge and Torch Puzzle
 Interactive Python-based simulation implementing the **A\*** search algorithm with real-time visualization.
 
-### 🌾 Farm Fresh Direct
+### Farm Fresh Direct
 Full-stack agri-tech platform connecting farmers and consumers with transparent order management.
 
-### 🌐 Portfolio Website
+### Portfolio Website
 AI-assisted personal portfolio built using HTML, CSS, and JavaScript, deployed on **Microsoft Azure**.
 
 👉 Explore pinned repositories below ⬇️
-
-<br/>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SShanmugaPriya1603&show_icons=true&theme=tokyonight&hide_border=true" width="420" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SShanmugaPriya1603&layout=compact&theme=tokyonight&hide_border=true" width="420" />
-</p>
 
 <br/>
 
