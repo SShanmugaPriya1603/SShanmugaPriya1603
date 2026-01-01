@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Shanmuga%20Priya%20S&fontSize=40&fontAlignY=35&animation=fadeIn" />
 </p>
 
-<h3 align="center">AI & Data Science Student | Aspiring AI & Forensics Enthusiast</h3>
+<h3 align="center">AI & Data Science Student | Aspiring AI & ML Enthusiast</h3>
 
 <p align="center">
   <a href="https://toothless.z7.web.core.windows.net/">
