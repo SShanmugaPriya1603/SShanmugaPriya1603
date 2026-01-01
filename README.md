@@ -17,26 +17,11 @@
 
 ## 👩‍💻 About Me
 
-```yaml
-name: Shanmuga Priya S
-degree: AI & Data Science
-focus:
-  - Artificial Intelligence
-  - Data Science
-  - Digital Forensics
-interests:
-  - Crime Analysis
-  - AI-powered Applications
-  - Algorithmic Problem Solving
-currently_learning:
-  - Advanced Java
-  - AI Algorithms
-  - Digital Forensics
-```
+I’m an **AI & Data Science** undergraduate with a strong interest in applying artificial intelligence to real-world problem solving. I enjoy working on projects that combine **logical thinking**, **data analysis**, and **practical impact**.
 
-I enjoy building **AI-driven applications**, solving **algorithmic puzzles**,  
-and developing **clean, interactive web systems**.  
-I’m particularly interested in applying **AI to crime investigation, law, and real-world problem solving**.
+My primary interests include **Artificial Intelligence**, **Machine Learning**, and **Cyber Security**, especially where technology intersects with investigation and decision-making. I enjoy building hands-on projects, exploring algorithms, and continuously improving my problem-solving skills.
+
+I’m currently focused on strengthening my core programming skills and developing impactful AI-based projects that reflect both technical depth and real-world relevance.
 
 <br/>
 
